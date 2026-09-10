@@ -347,8 +347,16 @@
       "name": "hunter",
       "source": "third_party/hunter",
       "description": "Find and verify emails, discover companies, and save leads."
+    },
+    {
+      "name": "sharepoint",
+      "source": "third_party/sharepoint",
+      "description": "Search and read SharePoint sites, pages, and files, powered by Grok."
+    },
+    {
+      "name": "finance",
+      "source": "third_party/finance",
+      "description": "Portfolio, balances, and transactions from your linked brokerages, powered by Grok."
     }
   ]
 }
-
-

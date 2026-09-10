@@ -71,6 +71,8 @@ Official Cursor plugins for popular developer tools, frameworks, and SaaS produc
 | `x-ads` | [X Ads](third_party/x-ads/) | Cursor | Integrations | Manage ad campaigns, create ads, track conversions, and pull performance stats. |
 | `attio` | [Attio](third_party/attio/) | Cursor | Integrations | Search and update CRM records, lists, notes, and tasks. |
 | `hunter` | [Hunter](third_party/hunter/) | Cursor | Integrations | Find and verify emails, discover companies, and save leads. |
+| `sharepoint` | [SharePoint](third_party/sharepoint/) | Cursor | Integrations | Search and read SharePoint sites, pages, and files, powered by Grok. |
+| `finance` | [Finance](third_party/finance/) | Cursor | Integrations | Portfolio, balances, and transactions from your linked brokerages, powered by Grok. |
 Author values match each plugin’s `plugin.json` `author.name` (Cursor lists `plugins@cursor.com` in the manifest).
 
 ## Repository structure
